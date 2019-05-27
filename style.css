@@ -582,13 +582,12 @@ li.social-links a {
 
 .slider-wrapper .owl-nav .owl-prev i{
 	position: absolute;
-    left: 26px;
-    right: 0;
-    top: 22px;
-    width: auto;
-    height: auto;
-    background: none;
-    color: #ffffff;
+	left: 0px;
+	right: 0;
+	width: auto;
+	height: auto;
+	background: none;
+	color: #ffffff;
 }
 
 .slider-wrapper .owl-nav .owl-next {
@@ -600,8 +599,7 @@ li.social-links a {
 .slider-wrapper .owl-nav .owl-next i{
 	position: absolute;
 	right: 0;
-	left: 26px;
-	top: 22px;
+	left: 0px;
 	width: auto;
 	height: auto;
 	background: none;
